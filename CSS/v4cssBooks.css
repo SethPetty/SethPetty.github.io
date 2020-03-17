@@ -261,5 +261,10 @@ label.input-checkbox.field-error span {
   color: #4d96d1; }
 
 .logo.logo-primary {
-   background-image: url('https://books.disney.com/content/themes/disneybooks/images/global/disney-books-logo-blue.png')!important;
+    font-size: 0;
+    background-image: url('https://books.disney.com/content/themes/disneybooks/images/global/disney-books-logo-blue.png')!important;
+    display: block;
+    height: 64px;
+    background-size: contain;
+    margin: 0 auto 0
 }
